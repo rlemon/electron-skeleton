@@ -14,5 +14,8 @@
     "babel-register": "^6.7.2",
     "feedparser": "^1.1.4",
     "request": "^2.72.0"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^0.37.7"
   }
 }
